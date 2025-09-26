@@ -1,50 +1,37 @@
+# Ardrah
 
+I am a second-year  Electronics and Communication Engineering. student specializing in programming with a focus on web development and data science. I have a solid foundation in C, C++, Python, HTML, CSS, JavaScript, and SQL, and I am committed to building effective, data-driven, and user-centric applications.
 
-🌸Hey, I'm ardrah!
+My goal is to continuously improve my skills and contribute to meaningful tech projects that combine robust code with practical solutions. I am actively working on transforming ideas into tangible projects.
 
-I'm a first-year engineering student with a passion for 
-tech, design, and innovation. 
-I love exploring the intersection of 
-AI, web development, and e-commerce, 
-and I'm always excited to learn and build new things!
+---
 
-💡 What I'm Into
+## Technical Skills
 
-Web Development – Currently working with HTML, CSS, and JavaScript to create beautiful, functional websites.
+- **Programming Languages:** C, C++, Python, JavaScript, SQL  
+- **Web Development:** HTML5, CSS3, JavaScript (ES6+)  
+- **Data Science:** Data manipulation and analysis using Python libraries, SQL querying  
+- **Tools:** Git, Visual Studio Code, Command-line interfaces  
 
-AI & Machine Learning – Exploring ways to make language translation more natural and human-like.
+---
 
-E-commerce & UI/UX – Designing a shopping platform where users can try on clothes virtually.
+## Areas of Interest
 
-Mathematics & Problem-Solving – Because a little logic makes everything better!
+- Web Development: Creating respon
+  sive and user-friendly websites and web applications with clean, maintainable code  
+- Data Science: Data analysis, visualization, and introductory machine learning  
 
+---
 
-🎯 What I'm Working On
+## Future Objectives
 
-A universal language translator using AR & AI.
+- Develop full-stack web applications integrating dynamic front-end and efficient back-end systems  
+- Apply data science techniques to real-world problems, including data wrangling, visualization, and predictive modeling  
+- Engage in collaborative projects to enhance my programming skills and deepen technical expertise  
 
-An e-commerce platform that lets users customize a virtual version of themselves.
+---
 
+## Contact
 
-🤝 Looking to Collaborate
-
-Web design with a unique, aesthetic touch.
-
-AI-driven applications that improve user experience.
-
-Anything cool that combines creativity & tech!
-
-
-📫 Let's Connect!
-
-Email: aardracn@gmail.com
-
-GitHub: ardrah
-
-🌟 Fun Fact
-
-I love blending technology with 
-creativity—whether it's designing 
-interfaces, coding cool features, 
-or just making the web a more beautiful place!
-
+- Email: [aardracn@gmail.com](mailto:aardracn@gmail.com)  
+- GitHub: [github.com/ardrah](https://github.com/ardrah)  
