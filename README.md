@@ -1,6 +1,6 @@
 # Ardrah
 
-I am a second-year  Electronics and Communication Engineering student. Specializing in programming with a focus on web development and data science. I have a solid foundation in C, C++, Python, HTML, CSS, JavaScript, and SQL, and I am committed to building effective, data-driven, and user-centric applications.
+I am a second-year  Electronics and Communication Engineering student. Specializing in programming with a focus on software development and data science. I have a solid foundation in C, C++, Python, HTML, CSS, JavaScript, and SQL, and I am committed to building effective, data-driven, and user-centric applications.
 
 My goal is to continuously improve my skills and contribute to meaningful tech projects that combine robust code with practical solutions. I am actively working on transforming ideas into tangible projects.
 
